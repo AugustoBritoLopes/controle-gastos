@@ -62,14 +62,6 @@ Exemplos:
 python main.py uber 25.50
 python main.py "burger king" 40
 
-### Modo Hacker (Windows - Opcional)
-Para rodar o comando "gasto" de qualquer lugar do seu computador:
-
-1.  Edite o arquivo "gasto.bat" e ajuste os caminhos para onde voce salvou a pasta do projeto.
-2.  Adicione a pasta do projeto as Variaveis de Ambiente (PATH) do Windows.
-3.  Abra um novo terminal e digite:
-    gasto mercado 150.00
-
 ## Dica de Visualizacao
 Para deixar sua planilha bonita como um App:
 1.  Congele a primeira linha e a primeira coluna.
