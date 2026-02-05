@@ -19,7 +19,7 @@ Feito em Python, para quem prefere o terminal.
 ## Instalacao
 
 1. Clone o repositorio:
-   git clone https://github.com/SEU_USUARIO/cli-controle-gastos.git
+   git clone https://github.com/AugustoBritoLopes/controle-gastos.git
    cd cli-controle-gastos
 
 2. Crie um ambiente virtual (Recomendado):
