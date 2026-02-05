@@ -66,7 +66,6 @@ python main.py "burger king" 40
 Para deixar sua planilha bonita como um App:
 1.  Congele a primeira linha e a primeira coluna.
 2.  Use Formatacao Condicional (Escala de Cores) nas celulas de valor para criar um mapa de calor dos seus gastos.
-3.  Formate as celulas como Moeda (R$).
 
 ## Contribuicao
 Sinta-se a vontade para abrir Issues ou Pull Requests para melhorar o codigo!
